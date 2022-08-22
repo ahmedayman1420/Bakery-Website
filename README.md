@@ -1,5 +1,5 @@
 # Bakery-Website
-A simple web application created by Html & CSS only
+A simple web application created with Html & CSS only
 
 ![chrome_3MyhrW3y90](https://user-images.githubusercontent.com/76254195/185905304-208a6d09-cbc6-4765-b458-5e6f80cd49b6.jpg)
 ![chrome_bvaqdtOcF8](https://user-images.githubusercontent.com/76254195/185905315-79d09bb9-6292-498f-8661-028f3fa6e64b.png)
